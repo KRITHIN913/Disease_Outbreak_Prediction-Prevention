@@ -1,0 +1,1 @@
+valid_clusters.apply(compute_centroid, include_groups=False)
